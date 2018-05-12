@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30368#A-Christmas-CarolThe-original-manuscript
 gutenberg_issued: '2009-10-30'
 gutenberg_type: Text
 identifiers:
